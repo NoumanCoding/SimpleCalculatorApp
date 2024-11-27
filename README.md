@@ -1,38 +1,17 @@
 # Simple Calculator App
 
-This is a Python-based **Simple Calculator App** that provides basic arithmetic operations. It is a great beginner-friendly project to understand Python programming and GitHub usage.
+This is a Python-based Simple Calculator App that provides both basic and advanced arithmetic operations. It's a beginner-friendly project to understand Python programming, error handling, and basic user interaction.
 
----
+## Features:
+- **Basic Operations**: addition, subtraction, multiplication, division.
+- **Advanced Operations**: square root, exponentiation, trigonometric functions (sine, cosine, tangent), modulo, factorial.
+- **Error Handling**: Prevent division by zero and handle invalid inputs.
+- **History**: Keep track of previous calculations.
 
-## Features
-- Perform **addition**, **subtraction**, **multiplication**, and **division**.
-- Handles **division by zero** with an error message.
-- User-friendly **interactive menu**.
-- Input validation to ensure correct numerical inputs.
-- Option to **exit** the app gracefully.
-
----
-
-## How to Use
+## How to Use:
 1. Run the application in a Python environment or terminal.
-2. Follow the on-screen instructions to:
-   - Select the desired operation.
-   - Enter the required numbers.
-   - View the result of the calculation.
+2. Select the desired operation from the menu.
+3. Enter the required numbers when prompted.
+4. View the result of the calculation.
 
----
-
-## Example Usage
-```plaintext
-Welcome to the Simple Calculator App!
-Options:
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-5. Exit
-
-Enter your choice (1-5): 1
-Enter the first number: 15
-Enter the second number: 10
-The result is: 25
+## Example Usage:
